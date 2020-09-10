@@ -171,6 +171,13 @@ table {
 	bottom: 10px;
 }
 
+.game {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .gameArea {
 	width: 300px;
 	height: 100%;
